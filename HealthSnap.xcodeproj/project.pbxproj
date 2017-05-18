@@ -17,6 +17,7 @@
 		1858AAA61ECC27650003A8D5 /* HealthSnapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1858AAA51ECC27650003A8D5 /* HealthSnapUITests.swift */; };
 		1866E5821ECC44D100E629AC /* showSplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866E5811ECC44D100E629AC /* showSplashScreen.swift */; };
 		1866E5841ECC647500E629AC /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866E5831ECC647500E629AC /* ThirdViewController.swift */; };
+		186FFED41ECD1758005DE307 /* registration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186FFED31ECD1758005DE307 /* registration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		1858AAA71ECC27650003A8D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1866E5811ECC44D100E629AC /* showSplashScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = showSplashScreen.swift; sourceTree = "<group>"; };
 		1866E5831ECC647500E629AC /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		186FFED31ECD1758005DE307 /* registration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = registration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				1858AA8C1ECC27650003A8D5 /* Assets.xcassets */,
 				1858AA8E1ECC27650003A8D5 /* LaunchScreen.storyboard */,
 				1858AA911ECC27650003A8D5 /* Info.plist */,
+				186FFED31ECD1758005DE307 /* registration.swift */,
 			);
 			path = HealthSnap;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 			files = (
 				1858AA881ECC27650003A8D5 /* SecondViewController.swift in Sources */,
 				1866E5821ECC44D100E629AC /* showSplashScreen.swift in Sources */,
+				186FFED41ECD1758005DE307 /* registration.swift in Sources */,
 				1866E5841ECC647500E629AC /* ThirdViewController.swift in Sources */,
 				1858AA841ECC27650003A8D5 /* AppDelegate.swift in Sources */,
 				1858AA861ECC27650003A8D5 /* FirstViewController.swift in Sources */,
